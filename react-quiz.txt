@@ -16,12 +16,16 @@
 			npm start
 
 (9) Make a production build (for either Android or iOS) What are the steps followed and commands used?
+			I'm not fammiliar with react native.
 
 (10) What are the technical differences between “React Native” and “Apache Cordova” for mobile app development.
 
 (11) What are the options for implementing navigation (between screens) in a React Native app? Do a high level technical comparison of the top 2 solutions.
 
 (12) How will React Hooks transform the way we program React components?
-
+			React hooks replaces lifecycle methods in class components.
+			as an example useeffect hook can use for replacing componentDidMount(), 
+			componentWillUnmount() and componentDidUpdate()
+		
 
 		
