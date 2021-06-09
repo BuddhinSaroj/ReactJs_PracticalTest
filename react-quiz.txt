@@ -15,5 +15,13 @@
 (5) Build and run the app on a device (or emulator) for either Android or iOS (with npm) What is/are the command(s) used?
 			npm start
 
+(9) Make a production build (for either Android or iOS) What are the steps followed and commands used?
+
+(10) What are the technical differences between “React Native” and “Apache Cordova” for mobile app development.
+
+(11) What are the options for implementing navigation (between screens) in a React Native app? Do a high level technical comparison of the top 2 solutions.
+
+(12) How will React Hooks transform the way we program React components?
+
 
 		
