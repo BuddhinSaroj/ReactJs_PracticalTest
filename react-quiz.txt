@@ -1,0 +1,19 @@
+1)Using npm, install or update react-native-cli globally What is the command used? 
+			npm install –g react-native-cli
+
+(2) Create a new React app with the name yourname_test What is the command used?
+			npx create-react-app buddhinsaroj_test
+
+(3) Go inside the yourname_test folder and initialize a Git repository What are the commands used?
+			git init command
+
+(4) Add the files to Git and commit with message- “Fresh React Native app” What are the commands used?
+			git add .
+			git commit -m "Fresh React Native app"
+			git push
+
+(5) Build and run the app on a device (or emulator) for either Android or iOS (with npm) What is/are the command(s) used?
+			npm start
+
+
+		
